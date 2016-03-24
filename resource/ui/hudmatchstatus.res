@@ -90,6 +90,7 @@
 
 		if_comp
 		{
+			"ypos_minmode"			"0"
 			"delta_item_x"			"35"
 			"delta_item_start_y"	"12"
 			"delta_item_end_y"		"50"
@@ -131,6 +132,7 @@
 
 				"xpos"			"cs-0.5"
 				"ypos"			"9"
+				"ypos_minmode"	"9"
 				"tall"			"10"
 				"font"			"HudFontSmall"
 				"font_minmode"	"HudFontSmall"
